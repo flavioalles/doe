@@ -1,0 +1,7 @@
+# Template YAML Config. File
+# For an examplary, see `conf/example.yaml`
+design: # defines the type of experimental design to be generated. Options are: `fullfact`.
+replications: # # of times each experiment is to be replicated.
+factors: # associative container listing factor and its levels
+    factor1: [level1, level2]
+    factor2: [level1, level2, level3]
