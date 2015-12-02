@@ -1,0 +1,7 @@
+# Example YAML Config. File
+design: fullfact
+replications: 10
+factors:
+    size: [10000, 20000]
+    schedulers: [dmda, dmdas]
+    nblocks: [1, 5, 10, 15]
