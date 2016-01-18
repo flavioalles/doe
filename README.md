@@ -1,6 +1,6 @@
-### doe (Design Of Experiment)
+### doe (Design Of Experiments)
 
-Experiments design generator wrapped around [pyDOE](https://pythonhosted.org/pyDOE/).
+Design of experiments generator wrapped around [pyDOE](https://pythonhosted.org/pyDOE/).
 
 At this point only [General Full-Factorial Designs](https://en.wikipedia.org/wiki/Factorial_experiment) are supported.
 
