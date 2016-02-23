@@ -16,3 +16,4 @@ The `<yaml-conf-file>` must follow the instructions defined in `conf/template.ya
 
 * Python 3.3
 * pyDOE
+* PyYAML
